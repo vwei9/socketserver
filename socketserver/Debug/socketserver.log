@@ -1,0 +1,25 @@
+﻿生成启动时间为 2015/11/10 14:05:38。
+     1>项目“G:\ZKHY\PROGRAM\socketserver\socketserver\socketserver.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\program files\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _USING_V110_SDK71_ /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\socketserver.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt socketserver.cpp socketserverDlg.cpp
+         socketserverDlg.cpp
+         正在生成代码...
+     1>g:\zkhy\program\socketserver\socketserver\socketserverdlg.cpp(230): warning C4715: “CsocketserverDlg::period”: 不是所有的控件路径都返回值
+         正在编译...
+         socketserver.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\rc.exe /D _DEBUG /D _USING_V110_SDK71_ /l"0x0804" /IDebug\ /nologo /fo"Debug\socketserver.res" socketserver.rc 
+       Link:
+         D:\program files\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\ZKHY\PROGRAM\socketserver\Debug\socketserver.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\program files\vs2013\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"G:\ZKHY\PROGRAM\socketserver\Debug\socketserver.pdb" /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\ZKHY\PROGRAM\socketserver\Debug\socketserver.lib" /MACHINE:X86 Debug\socketserver.res
+         Debug\ComSocket.obj
+         Debug\Protocol.obj
+         Debug\socketserver.obj
+         Debug\socketserverDlg.obj
+         Debug\stdafx.obj
+         socketserver.vcxproj -> G:\ZKHY\PROGRAM\socketserver\Debug\socketserver.exe
+     1>已完成生成项目“G:\ZKHY\PROGRAM\socketserver\socketserver\socketserver.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.52
